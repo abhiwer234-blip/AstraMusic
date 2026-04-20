@@ -8,7 +8,7 @@ lyricsgenius
 motor==3.3.2
 Pillow==10.1.0
 psutil
-pytgcalls==0.10.3
+py-tgcalls==0.6.0
 pyrogram==2.0.106
 python-dotenv
 PyYAML==6.0.1
