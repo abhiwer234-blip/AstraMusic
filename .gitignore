@@ -1,0 +1,24 @@
+# Environment variables - NEVER commit this!
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Logs
+*.log
+Yukkilogs.txt
+pypilog.txt
+nodelog.txt
+
+# Downloads folder
+downloads/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
